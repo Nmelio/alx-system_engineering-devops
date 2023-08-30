@@ -1,11 +1,11 @@
-****DESCRIPTION:****
+#****DESCRIPTION:****
 
-One server web infrastructure that hosts the website that is reachable via www.foobar.com with and IP address 8.8.8.8.
++One server web infrastructure that hosts the website that is reachable via www.foobar.com with and IP address 8.8.8.8.
 
-****EXPLANATION OF SOME SPECIFICS ABOUT THIS INFRASTRUCTURE:****
+#****EXPLANATION OF SOME SPECIFICS ABOUT THIS INFRASTRUCTURE:****
 
-**What is a server?**
-A server is a computer hardware or software that provides services to other computers, which are usually referred to as clients.
++**What is a server?**
++A server is a computer hardware or software that provides services to other computers, which are usually referred to as clients.
 
 **What is the role of the domain name?**
 They are easy-to-remember aliases of IP addresses.
