@@ -1,6 +1,6 @@
 ## DESCRIPTION:
 
-# One server web infrastructure that hosts the website that is reachable via www.foobar.com with and IP address 8.8.8.8.
+**One server web infrastructure that hosts the website that is reachable via www.foobar.com with and IP address 8.8.8.8.**
 
 ## EXPLANATION OF SOME SPECIFICS ABOUT THIS INFRASTRUCTURE:
 
