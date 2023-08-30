@@ -3,6 +3,7 @@
 One server web infrastructure that hosts the website that is reachable via www.foobar.com with and IP address 8.8.8.8.
 
 ****EXPLANATION OF SOME SPECIFICS ABOUT THIS INFRASTRUCTURE:****
+
 **What is a server?**
 A server is a computer hardware or software that provides services to other computers, which are usually referred to as clients.
 
@@ -25,6 +26,7 @@ To maintain a collection of organized information that can easily be accessed, m
 It communicates through the TCP/IP protocol suite over the internet.
 
 ****ISSUES WITH THIS INFRASTRUCTURE:****
+
 **SPOF:**
 There are multiple points of failure. The web server, application server and MySQL database servers have no alternate servers in case of failure.
 **Downtime when maintenance needed (like deploying new code web server needs to be restarted):**
