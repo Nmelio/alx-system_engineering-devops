@@ -28,7 +28,7 @@
 ## ISSUES WITH THIS INFRASTRUCTURE:
 
 + SPOF:
-<br/>There are multiple points of failure. The web server, application server and MySQL database servers have no alternate servers in case of failure.
+<br/>There are multiple points of failure. The web server, application server and MySQL database servers have no alternate servers in case of failures.
 + Downtime when maintenance needed (like deploying new code web server needs to be restarted):
 <br/>Due to the fact that there are no alternate servers, deploying new codes will lead to downtimes.
 + Cannot scale if too much incoming traffic:
